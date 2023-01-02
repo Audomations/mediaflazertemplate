@@ -1,0 +1,25 @@
+{
+  "name": "mediaflazetemplate",
+  "version": "1.0.0",
+  "description": "Stream from Discord Voice to any RTMP or icecast instantly!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Audomations/mediaflazertemplate.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "stream",
+    "template"
+  ],
+  "author": "V. Decoder -TV#3186",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Audomations/mediaflazertemplate/issues"
+  },
+  "homepage": "https://github.com/Audomations/mediaflazertemplate#readme"
+}
